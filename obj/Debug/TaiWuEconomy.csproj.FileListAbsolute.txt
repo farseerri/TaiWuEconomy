@@ -1,0 +1,16 @@
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\bin\Debug\TaiWuEconomy.dll
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\bin\Debug\TaiWuEconomy.pdb
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\bin\Debug\LitJson.dll
+E:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\BepInEx\plugins\TaiWuEconomy.dll
+E:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\BepInEx\plugins\TaiWuEconomy.pdb
+E:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\TaiWuEconomy.dll
+E:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\TaiWuEconomy.pdb
+E:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\TaiWuEconomy\Plugins\TaiWuEconomy.dll
+E:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\TaiWuEconomy\Plugins\TaiWuEconomy.pdb
+E:\SteamLibrary\steamapps\workshop\content\838350\2944926888\Plugins\TaiWuEconomy.dll
+E:\SteamLibrary\steamapps\workshop\content\838350\2944926888\Plugins\TaiWuEconomy.pdb
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\obj\Debug\TaiWuEconomy.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\obj\Debug\TaiWuEconomy.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\obj\Debug\TaiWuEconomy.csproj.CopyComplete
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\obj\Debug\TaiWuEconomy.dll
+D:\WorkSpace\C#\TaiWuMod\TaiWuEconomy\obj\Debug\TaiWuEconomy.pdb
